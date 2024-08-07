@@ -6,3 +6,5 @@ TASK-1
 TASK-2: Number Guessing Game
 
 TASK-4: Sudoku Solver App
+
+TASK-5: Web Scrapping
